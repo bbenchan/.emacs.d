@@ -1,0 +1,9 @@
+**/.DS_Store
+/eln-cache/
+/custom.el
+/auto-save-list/
+/projects
+/straight/build-cache.el
+/straight/build/
+/straight/modified/
+/straight/repos/
