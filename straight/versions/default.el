@@ -1,5 +1,6 @@
 (("compat" . "605f224633eb28efbe62252605515ce3d557e19f")
  ("consult" . "49144b6a1f4ce639093c181402a5b29e6eeebd3b")
+ ("consult-yasnippet" . "ae0450889484f23dc4ec37518852a2c61b89f184")
  ("dash.el" . "6db80c711ce947f6c6fa11e5c2257fff2c79d139")
  ("doom-modeline" . "dc15e932d8be149c9417a00898db229d9a2f8e6f")
  ("el-get" . "a5ba5852648a90ee0cde9fb5d72e69497d260eec")
