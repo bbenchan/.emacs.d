@@ -28,7 +28,8 @@
   :bind ("M-g y" . consult-yasnippet))
 
 ;; Collection of yasnippet snippets
-(use-package yasnippet-snippets)
+(use-package yasnippet-snippets
+  :after yasnippet)
 
 (provide 'init-yasnippet)
 ;;; init-yasnippet.el ends here
