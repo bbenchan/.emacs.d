@@ -24,6 +24,9 @@
   :diminish yas-minor-mode
   :hook (after-init . yas-global-mode))
 
+(use-package consult-yasnippet
+  :bind ("M-g y" . consult-yasnippet))
+
 ;; Collection of yasnippet snippets
 (use-package yasnippet-snippets)
 
