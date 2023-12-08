@@ -2,6 +2,7 @@
 /eln-cache/
 /custom.el
 /auto-save-list/
+/history
 /projects
 /straight/build-cache.el
 /straight/build/
