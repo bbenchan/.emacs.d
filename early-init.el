@@ -83,6 +83,10 @@
 ;; still aliases them fine regardless.
 (setq warning-suppress-types '((defvaralias)))
 
+;; Disable byte compiler warnings. This is a personal choice and can be removed
+;; if you would like to see any and all byte compiler warnings.
+(setq byte-compile-warnings nil)
+
 ;; Reduce debug output unless we've asked for it.
 (setq debug-on-error init-file-debug
       jka-compr-verbose init-file-debug)
