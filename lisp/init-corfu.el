@@ -1,8 +1,8 @@
 ;;; init-corfu.el --- Initialize corfu configuration. -*- lexical-binding: t; -*-
 ;;
-;; Copyright (C) 2023 Ben Chan
-;; Author: Ben Chan <517926804@qq.com>
-;; Homepage: https://github.com/bbenchan/.emacs.d
+;; Copyright (C) 2023 Ben Chen
+;; Author: Ben Chen <517926804@qq.com>
+;; Homepage: https://github.com/bbenchen/.emacs.d
 ;;
 ;;  ___     c  c  wWw \\\    ///          c  c  oo_
 ;; (___)__  (OO)  (O)_((O)  (O))   /)     (OO) /  _)-<

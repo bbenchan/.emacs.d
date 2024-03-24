@@ -1,1 +1,1 @@
-# Ben Chan's Emacs Configuration
+# Ben Chen's Emacs Configuration

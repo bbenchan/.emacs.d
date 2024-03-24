@@ -8,7 +8,7 @@
 ;; Modified: November 29, 2023
 ;; Version: 0.0.1
 ;; Keywords: Symbol’s value as variable is void: finder-known-keywords
-;; Homepage: https://github.com/bbenchan/init-yasnippet
+;; Homepage: https://github.com/bbenchen/init-yasnippet
 ;; Package-Requires: ((emacs "24.3"))
 ;;
 ;; This file is not part of GNU Emacs.
